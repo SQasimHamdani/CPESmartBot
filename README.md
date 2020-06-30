@@ -32,4 +32,4 @@
  - Pandas
  - Numpy
 
-<p align="center"><a  href="https://github.com/SQasimHamdani/CPESmartBot"><img src="https://i.ibb.co/GcT8bTq/Annotation-2020-06-30-161748.png" alt="Annotation-2020-06-30-161748" height="300px" border="0"></a></p>
+<p align="center"><a  href=""><img src="https://i.ibb.co/xJHBRHN/Annotation-2020-06-30-161748.png" alt="CPE Bot" height="300px" border="0"></a></p>
